@@ -1,6 +1,12 @@
 ### Hi there 👋
 Just testing this awsome feature!
 
+I've been developing for the lasts 10 years..... 
+Take a look at this repo, you'll find some nice stuff
+
+https://github.com/dirocchini/sample-api
+
+
 <!--
 **dirocchini/dirocchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
