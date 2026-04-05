@@ -1,9 +1,5 @@
 ### Hi there 👋
-Just testing this awsome feature!
 
-
-
-https://github.com/dirocchini/sample-api
 
 
 <!--
